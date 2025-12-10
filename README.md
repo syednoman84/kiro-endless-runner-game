@@ -62,7 +62,7 @@ src/
 
 2. **Install dependencies**
    ```bash
-   npm install
+   npm install or npm install --legacy-peer-deps
    ```
 
 3. **Verify Node.js version**
