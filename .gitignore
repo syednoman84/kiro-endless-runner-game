@@ -33,3 +33,9 @@ build/
 .vscode/
 
 .DS_Store
+
+.expo/
+app.json
+ios/
+node_modules/
+package-lock.json
