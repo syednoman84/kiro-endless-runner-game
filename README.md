@@ -2,6 +2,14 @@
 
 A fast-paced endless runner game built with React Native and Expo. Navigate your character through three lanes, dodge obstacles, and rack up points. Built with TypeScript and thoroughly tested with property-based testing.
 
+### Screenshots
+
+<img width="438" height="796" alt="image" src="https://github.com/user-attachments/assets/5a5fc46b-5e3e-47e9-b2e9-047b2ffedd5d" />
+
+<img width="393" height="794" alt="image" src="https://github.com/user-attachments/assets/9b8114c3-84f1-4687-8a82-9752dd78f59e" />
+
+
+
 ## Features
 
 - **Smooth 60 FPS Gameplay** - Optimized game loop for fluid motion
