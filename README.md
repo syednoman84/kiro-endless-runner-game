@@ -4,9 +4,8 @@ A fast-paced endless runner game built with React Native and Expo. Navigate your
 
 ### Screenshots
 
-<img width="438" height="796" alt="image" src="https://github.com/user-attachments/assets/5a5fc46b-5e3e-47e9-b2e9-047b2ffedd5d" />
+![EndlessRunnerGameDemo](https://github.com/user-attachments/assets/365c5761-4853-4ed8-98e8-c2eec1abc949)
 
-<img width="393" height="794" alt="image" src="https://github.com/user-attachments/assets/9b8114c3-84f1-4687-8a82-9752dd78f59e" />
 
 
 
