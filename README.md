@@ -104,6 +104,12 @@ src/
    ```bash
    npx expo run:ios
    ```
+   Note that following files and directories will be temporarily created as a result of using expo. We can delete them and no need to check-in:
+   ```bash
+   .expo/
+	app.json
+	ios/
+   ```
 
 5. **Play the game** (note: touch input works better on physical device)
 
