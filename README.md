@@ -100,7 +100,12 @@ src/
 
 2. **Press `i` in the terminal** to open iOS Simulator
 
-3. **Play the game** (note: touch input works better on physical device)
+3. Or directly run below command which will build the project and open ios Simulator:
+   ```bash
+   npx expo run:ios
+   ```
+
+5. **Play the game** (note: touch input works better on physical device)
 
 ### Option 3: On Android Simulator
 
